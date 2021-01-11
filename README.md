@@ -1,4 +1,4 @@
-# VTU Web Technology Laboratory Programs : 15CSL77
+# VTU Web Technology Laboratory Programs : 17CSL77
 
 1. Write a JavaScript code to design a simple calculator to perform the following operations : sum, product, difference and quotient. [Program](https://github.com/darshancc23/vtu-web-lab-7th-semester/blob/master/program1.html) | [Live Demo](https://dtprojects.site/web-lab/program1.html)
 
